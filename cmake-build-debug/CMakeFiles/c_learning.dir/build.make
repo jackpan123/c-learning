@@ -57,27 +57,27 @@ include CMakeFiles/c_learning.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/c_learning.dir/flags.make
 
-CMakeFiles/c_learning.dir/chapter-two/exercise_2_8.c.o: CMakeFiles/c_learning.dir/flags.make
-CMakeFiles/c_learning.dir/chapter-two/exercise_2_8.c.o: ../chapter-two/exercise_2_8.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jackpan/JackPanDocuments/jack-project/c-learning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/c_learning.dir/chapter-two/exercise_2_8.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_learning.dir/chapter-two/exercise_2_8.c.o   -c /Users/jackpan/JackPanDocuments/jack-project/c-learning/chapter-two/exercise_2_8.c
+CMakeFiles/c_learning.dir/chapter-three/exercise_3_6.c.o: CMakeFiles/c_learning.dir/flags.make
+CMakeFiles/c_learning.dir/chapter-three/exercise_3_6.c.o: ../chapter-three/exercise_3_6.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jackpan/JackPanDocuments/jack-project/c-learning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/c_learning.dir/chapter-three/exercise_3_6.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_learning.dir/chapter-three/exercise_3_6.c.o   -c /Users/jackpan/JackPanDocuments/jack-project/c-learning/chapter-three/exercise_3_6.c
 
-CMakeFiles/c_learning.dir/chapter-two/exercise_2_8.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_learning.dir/chapter-two/exercise_2_8.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jackpan/JackPanDocuments/jack-project/c-learning/chapter-two/exercise_2_8.c > CMakeFiles/c_learning.dir/chapter-two/exercise_2_8.c.i
+CMakeFiles/c_learning.dir/chapter-three/exercise_3_6.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_learning.dir/chapter-three/exercise_3_6.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jackpan/JackPanDocuments/jack-project/c-learning/chapter-three/exercise_3_6.c > CMakeFiles/c_learning.dir/chapter-three/exercise_3_6.c.i
 
-CMakeFiles/c_learning.dir/chapter-two/exercise_2_8.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_learning.dir/chapter-two/exercise_2_8.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jackpan/JackPanDocuments/jack-project/c-learning/chapter-two/exercise_2_8.c -o CMakeFiles/c_learning.dir/chapter-two/exercise_2_8.c.s
+CMakeFiles/c_learning.dir/chapter-three/exercise_3_6.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_learning.dir/chapter-three/exercise_3_6.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jackpan/JackPanDocuments/jack-project/c-learning/chapter-three/exercise_3_6.c -o CMakeFiles/c_learning.dir/chapter-three/exercise_3_6.c.s
 
 # Object files for target c_learning
 c_learning_OBJECTS = \
-"CMakeFiles/c_learning.dir/chapter-two/exercise_2_8.c.o"
+"CMakeFiles/c_learning.dir/chapter-three/exercise_3_6.c.o"
 
 # External object files for target c_learning
 c_learning_EXTERNAL_OBJECTS =
 
-c_learning: CMakeFiles/c_learning.dir/chapter-two/exercise_2_8.c.o
+c_learning: CMakeFiles/c_learning.dir/chapter-three/exercise_3_6.c.o
 c_learning: CMakeFiles/c_learning.dir/build.make
 c_learning: CMakeFiles/c_learning.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jackpan/JackPanDocuments/jack-project/c-learning/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable c_learning"

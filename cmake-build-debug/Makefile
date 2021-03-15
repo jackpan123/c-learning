@@ -123,32 +123,32 @@ c_learning/fast:
 	$(MAKE) -f CMakeFiles/c_learning.dir/build.make CMakeFiles/c_learning.dir/build
 .PHONY : c_learning/fast
 
-chapter-two/exercise_2_8.o: chapter-two/exercise_2_8.c.o
+chapter-three/exercise_3_6.o: chapter-three/exercise_3_6.c.o
 
-.PHONY : chapter-two/exercise_2_8.o
+.PHONY : chapter-three/exercise_3_6.o
 
 # target to build an object file
-chapter-two/exercise_2_8.c.o:
-	$(MAKE) -f CMakeFiles/c_learning.dir/build.make CMakeFiles/c_learning.dir/chapter-two/exercise_2_8.c.o
-.PHONY : chapter-two/exercise_2_8.c.o
+chapter-three/exercise_3_6.c.o:
+	$(MAKE) -f CMakeFiles/c_learning.dir/build.make CMakeFiles/c_learning.dir/chapter-three/exercise_3_6.c.o
+.PHONY : chapter-three/exercise_3_6.c.o
 
-chapter-two/exercise_2_8.i: chapter-two/exercise_2_8.c.i
+chapter-three/exercise_3_6.i: chapter-three/exercise_3_6.c.i
 
-.PHONY : chapter-two/exercise_2_8.i
+.PHONY : chapter-three/exercise_3_6.i
 
 # target to preprocess a source file
-chapter-two/exercise_2_8.c.i:
-	$(MAKE) -f CMakeFiles/c_learning.dir/build.make CMakeFiles/c_learning.dir/chapter-two/exercise_2_8.c.i
-.PHONY : chapter-two/exercise_2_8.c.i
+chapter-three/exercise_3_6.c.i:
+	$(MAKE) -f CMakeFiles/c_learning.dir/build.make CMakeFiles/c_learning.dir/chapter-three/exercise_3_6.c.i
+.PHONY : chapter-three/exercise_3_6.c.i
 
-chapter-two/exercise_2_8.s: chapter-two/exercise_2_8.c.s
+chapter-three/exercise_3_6.s: chapter-three/exercise_3_6.c.s
 
-.PHONY : chapter-two/exercise_2_8.s
+.PHONY : chapter-three/exercise_3_6.s
 
 # target to generate assembly for a file
-chapter-two/exercise_2_8.c.s:
-	$(MAKE) -f CMakeFiles/c_learning.dir/build.make CMakeFiles/c_learning.dir/chapter-two/exercise_2_8.c.s
-.PHONY : chapter-two/exercise_2_8.c.s
+chapter-three/exercise_3_6.c.s:
+	$(MAKE) -f CMakeFiles/c_learning.dir/build.make CMakeFiles/c_learning.dir/chapter-three/exercise_3_6.c.s
+.PHONY : chapter-three/exercise_3_6.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... c_learning"
-	@echo "... chapter-two/exercise_2_8.o"
-	@echo "... chapter-two/exercise_2_8.i"
-	@echo "... chapter-two/exercise_2_8.s"
+	@echo "... chapter-three/exercise_3_6.o"
+	@echo "... chapter-three/exercise_3_6.i"
+	@echo "... chapter-three/exercise_3_6.s"
 .PHONY : help
 
 

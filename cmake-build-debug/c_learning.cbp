@@ -78,7 +78,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/jackpan/JackPanDocuments/jack-project/c-learning/chapter-two/exercise_2_8.c">
+		<Unit filename="/Users/jackpan/JackPanDocuments/jack-project/c-learning/chapter-three/exercise_3_6.c">
 			<Option target="c_learning"/>
 		</Unit>
 		<Unit filename="/Users/jackpan/JackPanDocuments/jack-project/c-learning/CMakeLists.txt">

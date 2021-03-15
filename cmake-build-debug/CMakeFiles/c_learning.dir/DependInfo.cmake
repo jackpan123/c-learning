@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/jackpan/JackPanDocuments/jack-project/c-learning/chapter-two/exercise_2_8.c" "/Users/jackpan/JackPanDocuments/jack-project/c-learning/cmake-build-debug/CMakeFiles/c_learning.dir/chapter-two/exercise_2_8.c.o"
+  "/Users/jackpan/JackPanDocuments/jack-project/c-learning/chapter-three/exercise_3_6.c" "/Users/jackpan/JackPanDocuments/jack-project/c-learning/cmake-build-debug/CMakeFiles/c_learning.dir/chapter-three/exercise_3_6.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

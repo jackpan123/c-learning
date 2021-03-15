@@ -3,4 +3,4 @@ project(c_learning C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(c_learning chapter-two/exercise_2_8.c)
+add_executable(c_learning chapter-three/exercise_3_6.c)
